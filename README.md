@@ -1,2 +1,2 @@
-# DC-311-Service-Requests-Household-Income-Relationship
-A Python data manipulation and analysis project
+# DC 311 Service Requests Household Income Relationship
+A Python data manipulation and analysis project that examines the relationship between the number of 311 service request calls placed and the average household income of Washington D.C. residents, based on the eight wards that constitute the city, to find a potential correlation through the use of Pandas dataframe aggregations and Matplotlib visualizations.

@@ -6,6 +6,8 @@ For this project, I used 2 datasets which were the 2014 Washington D.C. 311 City
 * 2014 Washington D.C. 311 Service Requests dataset - https://opendata.dc.gov/datasets/311-city-service-requests-in-2014
 * 2011-2015 Wards dataset - https://planning.dc.gov/page/american-community-survey-acs-estimates
 
+## Results
+
 ![DC 311 Service Requests & Household Income Relationship Graph 1](/Graphs/Graph_1.png)
 ![DC 311 Service Requests & Household Income Relationship Graph 2](/Graphs/Graph_2.png)
 ![DC 311 Service Requests & Household Income Relationship Graph 3](/Graphs/Graph_3.png)
